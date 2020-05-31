@@ -1,0 +1,41 @@
+.A{
+	width: 150px;
+	height: 250px;
+	border-style: double;
+	border-color: grey;
+}
+h1{
+	
+	font-family: Helvetica;
+	text-align: center;
+	font-weight: bold;
+	text-shadow: 1.5px 1.5px red;
+
+}
+p{
+	font-family: Helvetica;
+	text-align: left;
+	float: left;
+}
+head,body{
+background-color: #5F9EA0;
+}
+img{
+	border:solid;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+address{
+	text-align: center;
+}
+button{
+	padding: 15px;
+	border-radius: 15px;
+	background-color: #FF4500;
+}
+.homee{
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
